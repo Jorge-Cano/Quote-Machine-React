@@ -5,7 +5,7 @@ class Footer extends Component {
   render() {
     return (
       <footer>
-        <p>Made with <span className="heart">Sugar</span> & Spice</p>
+        <p>Made with <span className="heart"> ~Sugar~ </span> & Spice</p>
       </footer>
     )
   }
