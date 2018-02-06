@@ -2,6 +2,7 @@
   "name": "quote-machine",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jorge-cano.github.io/Quote-Machine-React/",
   "dependencies": {
     "dotenv": "^4.0.0",
     "firebase": "^3.8.0",
