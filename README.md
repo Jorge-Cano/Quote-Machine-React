@@ -1,3 +1,6 @@
+<img src="Quote-Machine.png" alt="Quote">
+
+
 Only runs on my local machine. May have authentication/DB issues or GH Pages cannot support the Firebase Construct. Need to trouble shoot
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
